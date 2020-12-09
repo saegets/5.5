@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mklim\source\repos\5.5\5.5\Source.cpp(25,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mklim\source\repos\5.5\5.5\Source.cpp(25,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  5.5.vcxproj -> C:\Users\mklim\source\repos\5.5\Debug\5.5.exe
